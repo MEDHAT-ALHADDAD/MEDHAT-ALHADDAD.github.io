@@ -1,3 +1,4 @@
+import MessengerCustomerChat from 'react-messenger-customer-chat';
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
@@ -19,6 +20,7 @@ const Stats = lazy(() => import('./pages/Stats'));
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
     <Suspense fallback={<Main />}>
+      <MessengerCustomerChat pageId="106951161644963" appId="763440847657375" />,
       <Switch>
         <Route exact path="/" component={Index} />
         <Route path="/about" component={About} />
