@@ -14,7 +14,7 @@ const Projects = () => (
     description="Learn about Medhat Alhaddad's projects."
     fullPage
   >
-    <img width="120%" height="120%" src={`${PUBLIC_URL}/images/under_construction-2.JPG`} alt="" />
+    <img width="90%" height="90%" src={`${PUBLIC_URL}/images/under_construction-2.JPG`} alt="" />
     {/* <article className="post" id="projects">
       <header>
         <div className="title">
