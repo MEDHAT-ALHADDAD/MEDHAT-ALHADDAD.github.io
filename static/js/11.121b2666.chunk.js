@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[11],{174:function(t,e,s){"use strict";s.r(e);var a=s(0),c=(s(1),s(21));e.default=function(){return Object(a.jsx)(c.a,{title:"Projects",description:"Learn about Medhat Alhaddad's projects.",fullPage:!0,children:Object(a.jsx)("img",{width:"90%",height:"90%",src:"".concat("","/images/under_construction-2.JPG"),alt:""})})}}}]);
+//# sourceMappingURL=11.121b2666.chunk.js.map
