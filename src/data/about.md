@@ -5,7 +5,7 @@ I am a Graduating Student at [AinShams University](https://eng.asu.edu.eg), Form
 
 # Currently
 
-At Femesty, I have learned how to work in teams, explore many stacks, develop relationships with others,, and build software applications with technologies like [React-Native](https://React-Native.com/), [symfony](https://symfony.com/), [directus](https://directus.com/), and [AWS](https://aws.com/). I primarily work as a React-Native Engineer but have broad experience across many stacks.
+At Femesty, I have learned how to work in teams, explore many stacks, develop relationships with others,, and build software applications with technologies like [React-Native](https://reactnative.dev/), [symfony](https://symfony.com/), [directus](https://directus.io/), and [AWS](https://aws.com/). I primarily work as a React-Native Engineer but have broad experience across many stacks.
 
 # Some history
 
@@ -13,7 +13,7 @@ At Femesty, I have learned how to work in teams, explore many stacks, develop re
 
 - At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years.
+- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents).
 
 - At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
 
@@ -32,13 +32,13 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # Travel / Geography
 
 - I am originally from Cairo, Egypt.
-- I've been to ~ 2 countries, I hope one day to visit all countries in the world.
+- I've been to ~ 3 countries, I hope one day to visit all countries in the world.
 - I am an MineCraft enthusiast.
 
 # Fun facts
 
 - I have a list of thousands of ideas, like creating a new economic Theory.
-- I can locate 90% country on a map, and know a lot about History of each one.
+- I can locate 90% of the countries on a map, and know a little bit about the History of each one.
 
 # I dream of
 

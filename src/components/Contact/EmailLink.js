@@ -77,7 +77,6 @@ const EmailLink = () => {
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
       <a href={validateText(message) ? 'mailto:medhat.alhaddad@gmail.com' : ''}>
-        <span>{message}</span>
         <span>medhat.alhaddad@gmail.com</span>
       </a>
     </div>

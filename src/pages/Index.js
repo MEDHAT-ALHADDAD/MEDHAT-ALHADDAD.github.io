@@ -10,6 +10,7 @@ const Index = () => (
   >
     <article className="post" id="index">
       <header>
+        <img width="100%" src="../../public/images/bio.gif" alt="" />
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
