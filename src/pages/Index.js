@@ -3,14 +3,16 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
+const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
+
 const Index = () => (
   <Main
     description={"Medhat Alhaddad's personal website. Cairo based ASU graduate, "
     + 'Former Full Stack Developer at Femesty.'}
   >
+    <img width="100%" src={`${PUBLIC_URL}/images/bio.gif`} alt="" />
     <article className="post" id="index">
       <header>
-        <img width="100%" src="../../public/images/bio.gif" alt="" />
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
